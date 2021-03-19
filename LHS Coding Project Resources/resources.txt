@@ -1,0 +1,10 @@
+https://www.c-sharpcorner.com/UploadFile/2072a9/client-side-vs-server-side-programming-languages/
+
+https://code.tutsplus.com/tutorials/how-to-create-a-simple-web-based-chat-application--net-5931
+
+http://www.script-tutorials.com/how-to-easily-make-a-php-chat-application/
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+

@@ -1,0 +1,2 @@
+cilent side: HTML, CSS, Javascript
+server side: Javascript, PHP, SQL
